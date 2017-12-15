@@ -11,7 +11,7 @@ title               = "Marcelo Andre Naegeler - Full-stack developer"
 pygmentsuseclasses  = true
 # disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-# googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-38303324-6"
 
 [permalinks]
 blog  = "blog/:slug/"
