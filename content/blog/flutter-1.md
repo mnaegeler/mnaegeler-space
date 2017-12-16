@@ -31,3 +31,7 @@ No próximo menu selecione "Flutter Application" e após configure com o nome do
 No projeto, os arquivos que iremos desenvolver ficarão na pasta `lib`. Dentro desta pasta você pode ver que já existe um arquivo `main.dart` que é onde nossa aplicação inicia.
 
 Para começarmos, remova todo o conteúdo de exemplo fornecido pelo framework, pois aqui irei te apresentar passo a passo o que acontece em cada parte do código, na melhor forma que encontrei para aprender.
+
+---
+
+Tem alguma dúvida ou comentário? Deixe-o abaixo:

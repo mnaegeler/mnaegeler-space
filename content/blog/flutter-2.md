@@ -35,3 +35,7 @@ Bom, até aqui eu me surpreendi com a facilidade de adicionar esses Widgets na t
 Se você vem do Ionic, como eu, verá algumas diferenças de comportamento da `ion-tabs`, que aqui é chamada de `BottomNavigationBar` e não é tomada como navegação principal (não altera o rota) como você verá mais para a frente.
 
 Perceba que os ícones também são widgets, assim como os textos.
+
+---
+
+Tem alguma dúvida ou comentário? Deixe-o abaixo:

@@ -1,5 +1,5 @@
 baseurl = "https://mnaegeler.space/"
-builddrafts         = false
+builddrafts         = true
 canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
@@ -9,7 +9,7 @@ theme               = "cocoa"
 author              = "Marcelo Andre Naegeler"
 title               = "Marcelo Andre Naegeler - Full-stack developer"
 pygmentsuseclasses  = true
-# disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "blog-marcelo-andre-naegeler" # Comment out to disable Disqus.
 pluralizelisttitles = false
 googleAnalytics     = "UA-38303324-6"
 
