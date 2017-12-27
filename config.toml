@@ -51,7 +51,7 @@ instagram              = "//instagram.com/manaegeler"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/marcelonaegeler"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Conteúdo simples e bem explicado."                            # appears in the site header when set to a non-empty string
+selfintro              = ""                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/marcelonaegeler"
 # mastodon               = "//example.com/@you"
 
